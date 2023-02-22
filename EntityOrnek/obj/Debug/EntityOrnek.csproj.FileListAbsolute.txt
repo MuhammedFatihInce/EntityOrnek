@@ -1,0 +1,17 @@
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.pdb
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.dll
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.xml
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csprojAssemblyReference.cache
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form3.resources
+C:\Users\Muhammed Fatih\Desktop\Web projeleri\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form4.resources
